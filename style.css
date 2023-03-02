@@ -280,15 +280,15 @@ input {
     display: flex;
     position: fixed;
     border-radius: 50%;
-    height: 30px;
-    width: 30px;
+    height: 70px;
+    width: 70px;
 }
 a {
     display: flex;
     position: fixed;
     border-radius: 50%;
-    height: 30px;
-    width: 30px;
+    height: 90px;
+    width: 90px;
     cursor: pointer;
     z-index: 500 !important;
 }
