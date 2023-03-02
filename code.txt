@@ -1,0 +1,4 @@
+span.b   -------------color-blue 
+span.r   -------------color-red
+span.g   -------------color-green
+span.p   -------------color-purpel
